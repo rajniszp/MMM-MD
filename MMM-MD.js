@@ -43,10 +43,10 @@ Module.register("MMM-MD", {
 		staller: 100,
 
 		// Width (larghezza) del box del modulo
-		width: "calc(100% - 25%)",
+		width: "75vw",
 
 		// Height (altezza) del box del modulo
-		height: "500px",
+		height: "50vh",
 
 		// Nome del documento contenente il contenuto
 		// MD da convertire in HTML (compresa l'estensione)
